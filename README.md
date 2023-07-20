@@ -9,3 +9,8 @@ What the app tries to solve- This app addresses the problem of underutilized per
 Functions to be implemented- User Registration- account creation functionality for both car owners and those who want to rent. Users sign in secure login to the system enabling only authenticated users to interact with the system. Car Profile Creation: Car owners can create detailed profiles for their vehicles, including specifications, photos, and availability. Booking and Reservation: Renters can request car bookings and specify rental duration, locations, and addresses. In-App Messaging: Communication system allowing drivers and passengers to discuss rental details, coordinate pick-up/drop-off, and address any queries. Payment Integration: Secure payment processing for rental transactions, including options for rental fees, security deposits, and any additional charges. Trip History: Maintain a record of past rentals for both drivers and passengers, including details of previous transactions.
 
 Risks involved- Competition Sabotaging: Competitors may engage in unethical practices such as fake bookings User Resistance: Users may be hesitant to share their personal vehicles or rely on someone else's car. Internet Access Cost: High data costs or limited internet access in certain regions may impact user adoption
+
+
+DESIGN RESPONSE
+
+https://www.figma.com/file/tHY9suuPc0Lq8GFtKjchqd/Car-renter-Design?type=design&node-id=0%3A1&mode=design&t=f1hQp9ZdoDE4IPwf-1
