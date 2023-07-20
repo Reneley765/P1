@@ -11,6 +11,8 @@ Functions to be implemented- User Registration- account creation functionality f
 Risks involved- Competition Sabotaging: Competitors may engage in unethical practices such as fake bookings User Resistance: Users may be hesitant to share their personal vehicles or rely on someone else's car. Internet Access Cost: High data costs or limited internet access in certain regions may impact user adoption
 
 
-DESIGN RESPONSE
+
+
+**DESIGN RESPONSE**
 
 https://www.figma.com/file/tHY9suuPc0Lq8GFtKjchqd/Car-renter-Design?type=design&node-id=0%3A1&mode=design&t=f1hQp9ZdoDE4IPwf-1
