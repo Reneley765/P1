@@ -16,3 +16,6 @@ Risks involved- Competition Sabotaging: Competitors may engage in unethical prac
 **DESIGN RESPONSE**
 
 https://www.figma.com/file/tHY9suuPc0Lq8GFtKjchqd/Car-renter-Design?type=design&node-id=0%3A1&mode=design&t=f1hQp9ZdoDE4IPwf-1
+
+**added some pages on the design**
+https://www.figma.com/file/tHY9suuPc0Lq8GFtKjchqd/Car-renter-Design?type=design&node-id=0%3A1&mode=design&t=vQPZTGkOs7WA2Dyh-1
